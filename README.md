@@ -1,5 +1,6 @@
 # aveonline-front
-using nvm for manager npm versions 
+using nvm for manager npm versions
+
 npm versión 12.12.0
 
 ## Project setup
